@@ -46,10 +46,9 @@ li {
     text-align: center;
     display: inline-block;
     padding: 10px;
-
-        &:hover {
-            background-color: white;
-            color: black;
-            cursor: pointer;
-        }
 }
+li.hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+        }
