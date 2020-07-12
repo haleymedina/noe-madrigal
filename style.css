@@ -31,32 +31,13 @@ body {
 }
 
 /* Navbar */
-#navbar {
-    overflow: auto;
+.navbar {
+    overflow: hidden;
     background-color: darkolivegreen;
-    width: 100%;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    border-style: double;
+    border-width: 10px;
+    border-color: white;
 }
-
-#navbar a {
-    float: left;
-    padding: 12px;
-    color: white;
-    text-decoration: none;
-    font-size: 17px;
-    width: 25%;
-    text-align: center;
-}
-
-#navbar a:hover {
-    background-color: white;
-    color: black;
-}
-
-@media screen and (max-width: 500px) {
-    #navbar a {
-      float: none;
-      display: block;
-      width: 100%;
-      text-align: left;
-    }
-  }
