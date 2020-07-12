@@ -40,10 +40,10 @@ body {
 #navbar a {
     color: white;
     text-align: center;
-    padding: 7px;
+    padding: 12px;
     text-decoration: none;
     font-size: 17px;
-    float: left;
+    float: center;
     width: 25%;
 }
 
