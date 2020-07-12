@@ -25,3 +25,8 @@ body {
     transform: translate(-50%, -50%);
     mix-blend-mode: screen;
 }
+
+#navbar {
+    overflow: hidden;
+    background-color: darkslategrey;
+}
