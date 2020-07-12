@@ -31,13 +31,13 @@ body {
 }
 
 /* Navbar */
-#navbar {
+.navbar {
     overflow: auto;
     background-color: darkolivegreen;
     width: 100%;
 }
 
-#navbar a {
+.navbar a {
     float: left;
     padding: 12px;
     color: white;
