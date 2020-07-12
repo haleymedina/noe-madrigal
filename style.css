@@ -31,13 +31,13 @@ body {
 }
 
 /* Navbar */
-.navbar {
+#navbar {
     overflow: auto;
     background-color: darkolivegreen;
     width: 100%;
 }
 
-.navbar a {
+#navbar a {
     float: left;
     padding: 12px;
     color: white;
@@ -53,7 +53,7 @@ body {
 }
 
 @media screen and (max-width: 500px) {
-    .navbar a {
+    #navbar a {
       float: none;
       display: block;
       width: 100%;
