@@ -37,7 +37,8 @@ body {
 }
 
 #navbar a {
-    position: relative;
+    float: none;
+    position: absolute;
     display: block;
     color: white;
     text-align: center;
