@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1516310029508-8f346b013f45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1575&q=80");
+}
+
+/* navbar */
+ul {
+    background-color: white;
+    border: 10px double lavender;
+}
+
+.nav-link {
+    color: darkgray;
+}
+
+.nav-link:hover {
+    color: darkgray;
+}
